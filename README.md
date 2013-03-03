@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
